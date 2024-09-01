@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root  {
+    --dark-gray-blue-col: hsl(217, 19%, 35%);
+    --dark-blue-col: hsl(214, 17%, 51%);
+    --gray-blue-col: hsl(212, 23%, 69%);
+    --light-gray-blue-col: hsl(210, 46%, 95%);
+}
